@@ -7,6 +7,6 @@
 ## I am proficient in using python (pandas, numpy, scikit-learn) for exploratory data analysis and have experience using JavaScript (p5.js), Java, and C++. I also have some experience working with relational database systems and the MySQL programming language.
 
 # Seeking: 
-## Currently, my primary focus is my studies, however, I am eager to collaborate on any projects that would help me gain new skills, and I am also seeking an internship for the summer of 2026. 
+## Currently, my primary focus is my studies. However, I am eager to collaborate on any projects that would help me gain new skills, and I am also seeking an internship for the summer of 2026. 
 
 ## Contact info: fletcherhohn1@gmail.com
